@@ -1,0 +1,18 @@
+
+:root
+{
+    background-color: red;
+    display:flex;
+    justify-content: center;
+  
+    
+}
+#root
+{
+    width:1350px;
+    height:1000px;
+    margin-top:0px;
+
+    
+    background-color:blue;
+}

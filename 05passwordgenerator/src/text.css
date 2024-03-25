@@ -1,0 +1,112 @@
+
+#main
+{
+  width:100%;
+  max-width:28rem;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow:0 4px 6px rgba(0, 0, 0, 0.1);
+ border-radius: 0.5rem;
+ padding-left: 1rem;
+ padding-right: 1rem;
+ padding-top: 0.75rem; /* Equivalent to py-3 */
+  padding-bottom: 0.75rem; /* Equivalent to py-3 */
+  margin-top: 2rem; /* Equivalent to my-8 */
+  margin-bottom: 2rem; /* Equivalent to my-8 */
+  background-color: #2d3748; /* Equivalent to bg-gray-800 */
+  color: #ed8936; /* Equivalent to text-orange-500 */
+}
+
+
+
+
+
+body{
+
+  background-color:black;
+
+}
+
+button
+{
+  background-color:rgb(85, 85, 190);
+  border-radius:5px;
+}
+
+h1 {
+  color: white; /* Equivalent to text-white */
+  text-align:center; /* Equivalent to text-center */
+  margin-top:0.75rem; /* Equivalent to my-3 */
+  margin-bottom: 0.75rem; /* Equivalent to my-3 */
+}
+
+#m-id1
+{
+  display:flex;
+  box-shadow:0 4px 6px rgba(0,0,0,0.1);
+  border-radius:0.5rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+
+
+
+
+}
+#text-id
+{
+  outline:none;
+  width:100%;
+  padding-top:0.25rem;
+  padding-bottom:0.25rem;
+  padding-left: 0.75rem; /* Assuming 0.75rem is the equivalent of px-3 */
+  padding-right: 0.75rem; /* Assuming 0.75rem is the equivalent of px-3 */
+
+}
+
+button{
+  outline: none;
+  background-color: #1d4ed8;
+  color: white;
+  padding-left: 0.75rem; /* Assuming 0.75rem is the equivalent of px-3 */
+  padding-right: 0.75rem; /* Assuming 0.75rem is the equivalent of px-3 */
+  padding-top: 0.125rem; /* Assuming 0.125rem is the equivalent of py-0.5 */
+  padding-bottom: 0.125rem;
+  flex-shrink: 0;
+
+
+}
+
+#main2
+{
+  display:flex;
+  font-size:0.875rem;
+  margin-left: 0.5rem;
+
+
+}
+
+#m2-id1
+{
+  display:flex;
+  align-items:center;
+  margin-left:0.25rem;
+
+
+}
+#m2-id2
+{
+  display:flex;
+  align-items: center;
+  margin-left:0.25rem;
+}
+#m2-id3
+{
+  display:flex;
+  align-items: center;
+  margin-left:0.25rem;
+}
+
+
+
+
+
